@@ -1,0 +1,3 @@
+# abspath                          value_7m 7m_ms_name
+tbe tbe 10.0 tbe
+/lfs02/saitots/imaging/ngc3256_b3/ 10.0     ngc3256_b3_7m_co10.ms
