@@ -14,7 +14,7 @@ ngc1068_b3  541  2018.1.01684.S  1     0s      T         Tosaki         co10,cn1
 ngc1068_b3  431  2012.1.00657.S  2     550s    F         Takano         co10,cn10   toshiki_macmini,ngc0253_b3
 ngc1068_b3  431  2013.1.00279.S  1     350s    F         Nakajima       linesurvey  toshiki_macmini
 ngc1068_b8  541  2017.1.00586.S  2     0s      T         Takano         ci10        kaim02
-ngc1068_b9  472  2013.1.00055.S  1     800s    F         Garcia-Burillo co65        toshiki_macmini
+ngc1068_b9  472  2013.1.00055.S  1     400s    F         Garcia-Burillo co65        toshiki_macmini
 ngc3256_b3  472  2016.2.00042.S  1     0s      T         Saito          co10,cn10   kaim02
 ngc3256_b3  472  2016.2.00094.S  1     0s      T         Sakamoto       co10,cn10   kaim02
 ngc3256_b3  541  2018.1.00223.S  3     0s      T         Sakamoto       co10,cn10   kaim02
