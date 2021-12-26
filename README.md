@@ -10,7 +10,7 @@ This script handles CASA measurement sets created by ALMA calibration pipeline.
 
 mycasa_evalclean.py
 ============
-This script creates an html report. This reports provides some diagnositic plots which are useful for evaluating CLEAN quality.
+This script creates an html report. This reports provides some diagnositic plots which are useful for evaluating CLEAN quality. An example of the report can be found at report_evalclean_example/.
 
 mycasa_compare.py
 ============
